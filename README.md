@@ -2,7 +2,7 @@
 Hello this is Suzane Muza
 Information:
 This project is about my mobile app/website for easy and healthy Take N Bake Pizza
-The app is geared towards families who want to eat healthy pizzas as a family. We cater to people who are vegan.
+The app is geared towards families who want to eat healthy pizzas as a family. We cater to people who are foodies but halso health conscious. We even have vegan options
 You would come into a store or order on the mobile site  and pick up in the store and take the pizza home and enjoy!
 You pick all the fresh ingredients and customize the pizza the way you like.
 We list allergies and gluten levels in food and label vegan/vegatarin items.
