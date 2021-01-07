@@ -1,5 +1,6 @@
 function greet() {
     alert ('Fresh flavors');
+    
 }
 greet();
 
