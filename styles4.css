@@ -1,0 +1,20 @@
+h1{
+    font-size: 5em;
+    background: gold;
+    font: sans-serif;
+}
+
+h2{
+    font-size: 3em;
+    color: green;
+    font: sans-serif;
+}
+
+h3{
+    font-size: 2em;
+    font: sans-serif;
+}
+body{
+    background-color: black;
+    color: white
+}
